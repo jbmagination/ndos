@@ -25,5 +25,8 @@
     "fs": "^0.0.1-security",
     "node-fetch": "^2.6.1",
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0"
   }
 }
